@@ -7,7 +7,7 @@
 ```
 community-skills/
 ├── deepagents/                    # 来自 deepagents 的 4 个 skills
-├── claude-code-plugins-plus/      # 来自 claude-code-plugins-plus 的 1 个 skill
+├── skillsmp/                      # 来自 SkillsMP 的 1 个 skill
 └── anthropics/                    # 来自 Anthropic 官方的 16 个 skills
 ```
 
@@ -61,11 +61,11 @@ community-skills/
 
 ---
 
-## Claude Code Plugins Plus Skills
+## SkillsMP Skills
 
-来自 https://github.com/jeremylongshore/claude-code-plugins-plus
+来自 https://skillsmp.com/
 
-位于 `community-skills/claude-code-plugins-plus/` 目录
+位于 `community-skills/skillsmp/` 目录
 
 ### 5. ml-model-trainer
 
@@ -245,7 +245,7 @@ community-skills/
 | 来源 | 数量 | 目录 |
 |------|------|------|
 | DeepAgents | 4 | `deepagents/` |
-| Claude Code Plugins Plus | 1 | `claude-code-plugins-plus/` |
+| SkillsMP | 1 | `skillsmp/` |
 | Anthropic 官方 | 16 | `anthropics/` |
 
 ### 分类统计
