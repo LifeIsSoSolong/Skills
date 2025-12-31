@@ -30,6 +30,21 @@ Skills/
 - **官方文档**: Claude Code 官方文档
 - **示例参考**: 查看 `community-skills/` 目录中现有的 skills
 
+## Skills 统计
+
+**总计:** 22 个 skills
+
+### 分类统计
+
+| 分类 | 数量 | 说明 |
+|------|------|------|
+| 我的 Skills | 1 | `my-skills/` 目录 |
+| 社区 Skills | 21 | `community-skills/` 目录 |
+
+**详细信息:**
+- 我的 Skills: 查看 [my-skills/README.md](my-skills/README.md)
+- 社区 Skills: 查看 [community-skills/README.md](community-skills/README.md)
+
 ## 贡献
 
 欢迎添加新的 skills 或改进现有的 skills。
