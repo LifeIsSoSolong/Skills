@@ -26,11 +26,15 @@ Skills/
 
 ## Skill 开发参考
 
-关于如何创建和使用 skills，请参考 Claude Code 官方文档。
+- **添加新 Skill**: 请参考 [SKILL_GUIDELINES.md](SKILL_GUIDELINES.md) 了解规范要求
+- **官方文档**: Claude Code 官方文档
+- **示例参考**: 查看 `community-skills/` 目录中现有的 skills
 
 ## 贡献
 
 欢迎添加新的 skills 或改进现有的 skills。
+
+**添加新 skill 前请务必阅读 [SKILL_GUIDELINES.md](SKILL_GUIDELINES.md)**，确保 frontmatter 格式符合规范。
 
 ---
 
