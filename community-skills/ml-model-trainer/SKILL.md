@@ -1,11 +1,12 @@
 ---
 name: training-machine-learning-models
 description: |
-  Train machine learning models with automated workflows. Analyzes datasets, selects model types (classification, regression), configures parameters, trains with cross-validation, and saves model artifacts. Use when asked to "train model" or "evalua... Trigger with relevant phrases based on skill purpose.
+  Train machine learning models with automated workflows. Analyzes datasets, selects model types (classification, regression), configures parameters, trains with cross-validation, and saves model artifacts. Use when asked to "train model" or "evaluate model" or "automate ML training".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(cmd:*)
-version: 1.0.0
-author: Jeremy Longshore <jeremy@intentsolutions.io>
 license: MIT
+metadata:
+  version: 1.0.0
+  author: Jeremy Longshore <jeremy@intentsolutions.io>
 ---
 # Ml Model Trainer
 
